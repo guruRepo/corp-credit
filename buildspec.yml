@@ -20,3 +20,11 @@ phases:
 artifacts:
   files:
     - app.js
+    - package.json
+    - node_modules/*
+    - public/*
+    - public/stylesheets/*
+    - bin/*
+    - routes/*
+    - views/*
+    - credit_research_queries.js
